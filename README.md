@@ -1,4 +1,4 @@
-# N-Body_Simulation
+# N-body Simulation
 1. Open the Python Notebook File
 2. Make the necessary changes - file path, your animation name, among others
 3. The simulation is ready to run
