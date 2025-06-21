@@ -1,2 +1,6 @@
 # N-Body_Simulation
-Code for N-body Simulation
+1. Open the Python Notebook File
+2. Make the necessary changes - file path, your animation name, among others
+3. The simulation is ready to run
+
+The simulation is of 500 frames of redshift value for 32^3 particles. The python notebook consists of 2 codes, one with and one without the axes.
